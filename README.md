@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuelkwijaya
-- 👀 I’m interested in Games,Design and Anime Movies
+- 👀 I’m interested in Games,Design and Anime
 - 🌱 I’m currently learning Javascript,HTML,CSS and other language !!!
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me contact my instagram @samuelkwijaya (there is discord link too in my instagram bio)
