@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 About Me
 
 - 📈 Discord bot developer and Js Enthusiast! 
-- 🔭 Currently hiatus on pursuing a course & coding
+- 🔭 Currently hiatus on pursuing a course & coding (NOT VERY ACTIVE IN GITHUB)
 - 💻 Full development on Samuel Musical projects !
 - 🌱 Javascript was the first language that i learn
 - ⚡ Learning something new everyday, because i have 0 knowledge on coding HAHAHA.
