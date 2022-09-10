@@ -2,7 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/instagram-%237232bd.svg?&style=for-the-badge&logo=instagram&logoColor=white")](https://www.youtube.com/channel/UCqCUlPzX2OrZoRTSQ-UMM8w)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/c/samuelkwijaya)
-[![Discord](https://img.shields.io/badge/discord-%232c2f33.svg?&style=for-the-badge&logo=discord&logoColor=white")](https://discord.com/invite/CnGZgBs)
 
 ### 👨🏻‍💻 About Me
 
