@@ -6,11 +6,11 @@
 
 ### 👨🏻‍💻 About Me
 
-- 📈 Discord bot developer and Js Enthusiast! 
-- 🔭 Currently hiatus on pursuing a course & coding (NOT VERY ACTIVE IN GITHUB)
-- 💻 Full development on Samuel Musical projects !
+- 📈 Discord bot developer from Indonesia
+- 🔭 Currently semi hiatus and inactive for a long time
+- 💻 I make a random useful website and discord bot
 - 🌱 Javascript was the first language that i learn
-- ⚡ Learning something new everyday, because i have 0 knowledge on coding HAHAHA.
+- ⚡ Learning something new everyday, because i have 0 knowledge on coding.
 ---
 
 ### 🛠 Languages and Tools
