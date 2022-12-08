@@ -4,11 +4,11 @@
 
 ### 👨🏻‍💻 About Me
 
-- 📈 Discord bot developer from Indonesia
-- 🔭 Currently semi hiatus and inactive for a long time
-- 💻 I make a random useful website and discord bot
-- 🌱 Javascript was the first language that i learn
-- ⚡ Learning something new everyday, because i have 0 knowledge on coding.
+- 📈 Website maker, Discord bot developer
+- 🔭 Working on samuel musical and muel collection
+- 💻 I make a random things that maybe usefull for others ?
+- 🌱 Javascript and HTML is my favorite language
+- ⚡ Learning something new everyday :)
 ---
 
 ### 🛠 Languages and Tools
