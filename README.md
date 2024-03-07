@@ -1,5 +1,5 @@
 ## Samuel Was Here 👻👻👻
-Hemlo everyone, my name is Samuel. I love Indonesia and im from Jakarta 🤣
+Hemlo everyone, my name is Samuel 👋🏻
 
 ---
 
