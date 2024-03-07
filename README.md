@@ -1,33 +1,31 @@
-### Hi there, Samuel is here !!!!
+## Samuel Was Here 👻👻👻
+Hemlo everyone, my name is Samuel. I love Indonesia and im from Jakarta 🤣
 
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/c/samuelkwijaya)
+---
 
 ### 👨🏻‍💻 About Me
 
-- 📈 Website maker, Discord bot developer
-- 🔭 Working on samuel musical and muel collection
-- 💻 I make a random things that maybe usefull for others ?
-- 🌱 Javascript and HTML is my favorite language
-- ⚡ Learning something new everyday :)
+- 📈 Focusing on Web Development and Roblox Development (mostly focused on UI/UX)
+- 🔭 Working on Club Roleplay Website and small roblox game scripting.
+- 💻 Mostly active here at night time hehe, im very lazy koding koding during the day Hehehehehe.
+- 🌱 Python, Html, CSS and LUA is my favorite language (don't judge me la, im just trying to improve this things everyday)
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Languages and Tools i used for development
 
+[![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;][html]
+[![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;][css]
 [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;][python]
 [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;][java]
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
+![MySQL](https://img.shields.io/twitter/url?color=000000&label=MySQL&logo=MySQL&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 [![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;][git]
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![MySQL](https://img.shields.io/twitter/url?color=000000&label=MySQL&logo=MySQL&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)&nbsp;
-[![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;][html]
-[![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;][css]
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
 
----
+# ***Reserved and Special thing goes here....***
 
 [github]: https://github.com/manojuppala
 [twitter]: https://twitter.com/Manoj_0863
@@ -48,5 +46,7 @@
 [html]: https://devdocs.io/html/
 
 -----
+
+## **Github Stats**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelkwijaya&show_icons=true&theme=dark)
