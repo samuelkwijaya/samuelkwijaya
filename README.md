@@ -9,6 +9,7 @@ Hemlo everyone, my name is Samuel. I love Indonesia and im from Jakarta 🤣
 - 🔭 Working on Club Roleplay Website and small roblox game scripting.
 - 💻 Mostly active here at night time hehe, im very lazy koding koding during the day Hehehehehe.
 - 🌱 Python, Html, CSS and LUA is my favorite language (don't judge me la, im just trying to improve this things everyday)
+- **Always open to collaborations. Just reach out me out on [Gmail](samuelkwijayabusiness@gmail.com)  💌**
 ---
 
 ### 🛠 Languages and Tools i used for development
